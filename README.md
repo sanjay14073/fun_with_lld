@@ -9,3 +9,5 @@ Each pattern will be accompanied by at least one use case in the pratice folder.
 1. Simple Creation of an ATC (Airport Traffic Controller) for practice.
 2. Design a logging system.
 
+## Builder Pattern
+1. Added a basic implementation of a House Builder Example
