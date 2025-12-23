@@ -6,5 +6,6 @@ Each pattern will be accompanied by at least one use case in the pratice folder.
 
 ## Singleton Pattern Use Cases
 
-1. Design a logging system.
-2. Design a Database connection pool management.
+1. Simple Creation of an ATC (Airport Traffic Controller) for practice.
+2. Design a logging system.
+
