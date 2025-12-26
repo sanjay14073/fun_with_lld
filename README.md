@@ -11,3 +11,6 @@ Each pattern will be accompanied by at least one use case in the pratice folder.
 
 ## Builder Pattern
 1. Added a basic implementation of a House Builder Example
+
+## Factory Pattern
+1. Added a basic implementation of a pizza house example
